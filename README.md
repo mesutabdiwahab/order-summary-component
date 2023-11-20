@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [order summary component solution](https://github.com/mesutabdiwaha/order-summary-component)
+- Solution URL: [order summary component solution](https://github.com/mesutabdiwahab/order-summary-component)
 - [Live Site URL](https://mesutabdiwahab.github.io/order-summary-component)
 
 ## My process
